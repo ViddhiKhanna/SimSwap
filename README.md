@@ -98,7 +98,7 @@ python train.py --name simswap512_test  --batchSize 16  --gpu_ids 0 --dataset /p
 
 [Inference for image or video face swapping](./docs/guidance/usage.md)
 
-[Colab demo](https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/SimSwap%20colab.ipynb)
+[Colab demo](https://colab.research.google.com/drive/1LOj_9Qjc4lYUu1oqgoV86niQ4cDUojdg?usp=sharing)
 
 <div style="background: yellow; width:140px; font-weight:bold;font-family: sans-serif;">Stronger feature</div>
 
